@@ -21,6 +21,8 @@ n/a
 
 When the website opens, there are links in the header to the content below, for ease of user.
 
+Site is published at https://philculling.github.io/week1challenge
+
 ## Credits
 The starter html code, CSS and images were provided by BCS from https://courses.bootcampspot.com, copied on 9/12/22
 
