@@ -64,7 +64,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* CSS repetition removed by renaming target as "content-boxes" in html and removing unnecessary repetition below using commenting out
+*/
 .content-boxes {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,7 +74,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* CSS repetition removed by renaming target as "content-boxes" in html and removing unnecessary repetition within CSS
+/* Removal of repetition that is now unnecessary
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,10 +93,12 @@ p {
     color: #ffffff;
 }
 */
+/* CSS repetition removed in same way as above, but for images
+*/
 .content-boxes img {
     max-height: 200px;
 }
-/*CSS repetition removed in same way as above, but for images
+/* Removal of repetition that is now unnecessary
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -104,11 +107,13 @@ p {
     max-height: 200px;
 }
 */
+/* CSS repetition removed in same way as above, but for h2 elements
+*/
 .content-boxes h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*CSS repetition removed in same way as above, but for h2 elements
+/* Removal of repetition that is now unnecessary
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -139,12 +144,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* CSS repetition removed by renaming target as "benefit-section" in html and removing unnecessary repetition within CSS using commenting out
+*/
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Removal of repetition that is now unnecessary
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -154,12 +160,14 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+*/
+/* CSS tidying as above, now for benefit-sction h3
+*/
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -169,13 +177,15 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+*/
+/* CSS tidying as above, now for benefit-sction img
+*/
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -187,7 +197,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+*/
 .footer {
     padding: 30px;
     clear: both;
